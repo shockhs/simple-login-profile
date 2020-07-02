@@ -1,6 +1,5 @@
-# {{ name }}
-
-> {{ description }}
+# nuxt-profile
+> Nuxt.js profile app
 
 
 > surge: http://interesting-humor.surge.sh
