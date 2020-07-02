@@ -3,7 +3,7 @@
 > {{ description }}
 
 
-> surge: http://oval-sister.surge.sh/
+> surge: http://interesting-humor.surge.sh
 
 ## Build Setup
 
